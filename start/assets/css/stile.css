@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* IMPOSTAZIONI GENERALI */
+html, body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+
+}
+/* HEADER */
+header {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    background-color: #00a0c6;
+    border-bottom: 4px solid #027794;
+    text-transform: uppercase;
+    line-height: 2em;
+}
+span {
+    background-color: #fff;
+    color: #00a0c6;
+
+}
+
+#nome {
+    color:#fff;
+    font-size: 2rem;
+}
+
+#lavoro {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+  
+}
+
+
+main {
+    margin: 40px;
+    font-size: 1rem;
+
+}
+
+/* ELEMENTI NEL MAIN */
+
+.info {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #027794;
+    margin-bottom: 10px;
+}
+
+
+
+figure {
+    text-align: center;
+
+}
+
+#foto_lavoro {
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+figcaption {
+    font-size: 0.8rem;
+
+}
+
+b {
+    font-weight: bold;
+}
+
+a:link, a:visited {
+    font-weight: bold;
+    color: #ce6054
+}
+
+a:hover {
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+}
+
+blockquote {
+    text-align: center;
+    margin-top: 30px;
+    font-style: italic;
+    
+}
+
+#su_di_me {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.quote {
+    width: 46vh;
+    height: 20vw;
+    background-color: #e3e3e3;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+
+}
+
+strong {
+    color: #027794;
+    
+}
+
+hr {
+    border: 1px dashed black;
+}
+
+h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+mark {
+    background-color: #027794;
+    color: white;
+   
+}
+p {
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-left: 40px;
+}
+
+dd {
+    margin-left: 40px;
+}
+/* FOOTER */
+
+footer {
+    background-color: #353535;
+    border-top: 4px solid #00a0c6;
+    text-align: center;
+    color: #fff;
+    font-size: 0.8rem;
+}
+
+small {
+    color: #999999;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+kbd {
+    color: #ffff00;
+    font-weight: bold;
+    font-style: italic;
+}
+
